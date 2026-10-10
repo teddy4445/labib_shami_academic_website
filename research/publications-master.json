@@ -1,0 +1,1164 @@
+{
+  "generated": "2026-10-10",
+  "subject": "Labib Shami",
+  "orcid": "0000-0002-3127-5109",
+  "counts_note": "25 peer-reviewed journal articles, 1 book chapter, 2 preprints/working papers. Preprint versions of published articles are linked as versions, not counted.",
+  "themes": {
+    "money-credit": {
+      "label": "Money, credit & monetary policy",
+      "pillar": "money"
+    },
+    "non-observed": {
+      "label": "The non-observed economy",
+      "pillar": "hidden"
+    },
+    "smes-local": {
+      "label": "SMEs, entrepreneurship & local government",
+      "pillar": "policy"
+    },
+    "crisis": {
+      "label": "Crises, epidemics & resilience",
+      "pillar": "policy"
+    },
+    "political-economy": {
+      "label": "Political economy & game theory",
+      "pillar": "policy"
+    }
+  },
+  "publications": [
+    {
+      "id": "labib-001",
+      "slug": "2026-un-financing-cooperative-game",
+      "title": "Cooperative Game-Theoretic Framework for Sustainable UN Financing: An Application to Global Public Goods Provision",
+      "authors": [
+        "Labib Shami",
+        "Teddy Lazebnik"
+      ],
+      "year": 2026,
+      "venue": "Economies",
+      "volume": "14",
+      "issue": "7",
+      "pages": "263",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2026-07-07",
+      "date_issue": "",
+      "doi": "10.3390/economies14070263",
+      "url": "https://www.mdpi.com/2227-7099/14/7/263",
+      "open_access": true,
+      "license": "CC BY 4.0",
+      "versions": [
+        {
+          "label": "Earlier preprint (arXiv:2602.15062)",
+          "url": "https://arxiv.org/abs/2602.15062",
+          "note": "Preprint titled 'Cooperative Game Theory Model for Sustainable UN Financing: Addressing Global Public Goods Provision'; not counted separately"
+        }
+      ],
+      "themes": [
+        "political-economy"
+      ],
+      "summary": "Develops a cooperative game-theoretic framework for financing global public goods and applies it to United Nations funding: each member state's contribution is priced according to the benefit it derives, and agent-based simulations calibrated to observed contribution patterns compare this design with a non-cooperative benchmark.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "University of Haifa CRIS record",
+          "arXiv API"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-002",
+      "slug": "2026-local-context-municipal-sme-policy",
+      "title": "Local context, local solutions: increasing returns from municipal policies supporting SMEs",
+      "authors": [
+        "Israel Rachevski",
+        "Labib Shami"
+      ],
+      "year": 2026,
+      "venue": "Small Enterprise Research",
+      "volume": "33",
+      "issue": "2",
+      "pages": "159–177",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2026-05-26",
+      "date_issue": "2026-05",
+      "doi": "10.1080/13215906.2026.2671915",
+      "url": "https://doi.org/10.1080/13215906.2026.2671915",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Uses survey data from 513 Israeli small and medium-sized enterprises and structural equation modelling to ask whether a locality's population size, socioeconomic status and demographic composition change how municipal support for businesses translates into owner satisfaction and economic returns. Socioeconomic status and demographic composition turn out to matter most.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "University of Haifa CRIS record"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-003",
+      "slug": "2026-sme-resilience-wartime-innovation",
+      "title": "SME resilience in wartime: the constraints of innovation",
+      "authors": [
+        "Labib Shami",
+        "Israel Rachevski"
+      ],
+      "year": 2026,
+      "venue": "Innovation: Organization & Management",
+      "volume": "",
+      "issue": "",
+      "pages": "1–18",
+      "type": "journal-article",
+      "status": "online-first",
+      "date_online": "2026-04-19",
+      "date_issue": "",
+      "doi": "10.1080/14479338.2026.2662235",
+      "url": "https://doi.org/10.1080/14479338.2026.2662235",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local",
+        "crisis"
+      ],
+      "summary": "Draws on a survey of 766 Israeli SMEs affected by the 2023 war to examine how firm characteristics, geographic exposure and wartime constraints relate to supply- and demand-side disruptions in the first phases of the conflict, and whether process and marketing innovation moderate those relationships.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "University of Haifa CRIS record (Accepted/In press)"
+        ],
+        "notes": "Online first; volume/issue not yet assigned in Crossref on 2026-10-10."
+      }
+    },
+    {
+      "id": "labib-004",
+      "slug": "2026-informal-economy-sweden-spatial",
+      "title": "Tell Me Who Your Neighbors Are and I Will Tell You Your Informal Economy Size: The Case of Sweden",
+      "authors": [
+        "Teddy Lazebnik",
+        "Labib Shami",
+        "Einav Peretz-Andersson"
+      ],
+      "year": 2026,
+      "venue": "Computational Economics",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "journal-article",
+      "status": "online-first",
+      "date_online": "2026-02-19",
+      "date_issue": "",
+      "doi": "10.1007/s10614-025-11276-6",
+      "url": "https://link.springer.com/article/10.1007/s10614-025-11276-6",
+      "open_access": true,
+      "license": "CC BY 4.0",
+      "versions": [],
+      "themes": [
+        "non-observed"
+      ],
+      "summary": "Brings geography into informal-economy estimation. Using data for Sweden's 21 regions from 2006 to 2023, the study compares models ranging from linear regression to graph neural networks for predicting the size of each region's informal economy under different spatio-temporal settings.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "University of Haifa CRIS record (Accepted/In press)"
+        ],
+        "notes": "Online first; volume/issue not yet assigned in Crossref on 2026-10-10."
+      }
+    },
+    {
+      "id": "labib-005",
+      "slug": "2026-two-period-screening-probationary-employment",
+      "title": "Beyond the First Impression: A Two-Period Screening Model under Probationary Employment",
+      "authors": [
+        "Dan Lederman",
+        "Teddy Lazebnik",
+        "Labib Shami"
+      ],
+      "year": 2026,
+      "venue": "SSRN working paper",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "preprint",
+      "status": "preprint",
+      "date_online": "2026-01-05",
+      "date_issue": "",
+      "doi": "10.2139/ssrn.6022246",
+      "url": "https://doi.org/10.2139/ssrn.6022246",
+      "open_access": true,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "political-economy"
+      ],
+      "summary": "A two-period model of probationary employment in which workers can either build genuine skill or improve the metrics an employer observes. It examines how pay brackets and evaluation windows shape effort, and includes an application to professional basketball (NBA) contracts.",
+      "summary_basis": "SSRN abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "SSRN abstract page"
+        ],
+        "notes": "Working paper; not peer reviewed as of 2026-10-10."
+      }
+    },
+    {
+      "id": "labib-006",
+      "slug": "2025-special-interest-groups-utility",
+      "title": "Got much, got nothing: analyzing the impact of increased special interest groups’ influence on utility",
+      "authors": [
+        "Labib Shami",
+        "Teddy Lazebnik"
+      ],
+      "year": 2025,
+      "venue": "Eurasian Economic Review",
+      "volume": "15",
+      "issue": "4",
+      "pages": "1021–1044",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2025-04-20",
+      "date_issue": "2025-12",
+      "doi": "10.1007/s40822-025-00316-z",
+      "url": "https://doi.org/10.1007/s40822-025-00316-z",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "political-economy"
+      ],
+      "summary": "Models the long-run effects of raising transfer payments to members of an interest group who stay out of the labour market, focusing on Israel's ultra-Orthodox community. In the differential-equation model, allowances beyond a critical level shrink the working population that funds public goods, eventually eroding the group's own benefits as well.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page",
+          "GLO-Berlin-2024 programme (presented 20 April 2024)"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-007",
+      "slug": "2025-non-bank-credit-competition",
+      "title": "Elusive competition: impact of non-bank credit providers’ financing on credit market competition",
+      "authors": [
+        "Labib Shami"
+      ],
+      "year": 2025,
+      "venue": "Journal of Banking Regulation",
+      "volume": "26",
+      "issue": "2",
+      "pages": "288–303",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2024-10-05",
+      "date_issue": "2025-06",
+      "doi": "10.1057/s41261-024-00259-6",
+      "url": "https://doi.org/10.1057/s41261-024-00259-6",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "money-credit"
+      ],
+      "summary": "Models what happens when newly established non-bank lenders that depend on bank financing enter a credit market. Because borrowers' insolvency risk plays a central role, more credit providers can raise rather than lower average credit prices, which argues for equal conditions for new entrants.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page",
+          "University of Haifa CRIS record"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-008",
+      "slug": "2025-business-environment-sme-satisfaction-local-revenue",
+      "title": "Twice as effective: business environment, SME owners’ satisfaction, and local government revenue performance",
+      "authors": [
+        "Israel Rachevski",
+        "Labib Shami"
+      ],
+      "year": 2025,
+      "venue": "Local Government Studies",
+      "volume": "51",
+      "issue": "3",
+      "pages": "524–546",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2024-07-10",
+      "date_issue": "2025",
+      "doi": "10.1080/03003930.2024.2378965",
+      "url": "https://doi.org/10.1080/03003930.2024.2378965",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Links the local business environment created by municipalities to SME owners' satisfaction and to local economic outcomes. Factor analysis and structural equation modelling on a survey of 513 SME owners show that higher satisfaction is associated with more local employment and higher municipal tax revenue from SMEs.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-009",
+      "slug": "2025-tax-evasion-llm-agent-simulation",
+      "title": "Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation",
+      "authors": [
+        "Teddy Lazebnik",
+        "Labib Shami"
+      ],
+      "year": 2025,
+      "venue": "arXiv",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "preprint",
+      "status": "preprint",
+      "date_online": "2025-01-30",
+      "date_issue": "",
+      "doi": "10.48550/arXiv.2501.18177",
+      "url": "https://arxiv.org/abs/2501.18177",
+      "open_access": true,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "non-observed"
+      ],
+      "summary": "Asks how tax evasion emerges in a population in the first place, rather than taking it as given. The study uses an agent-based simulation whose agents are driven by a large language model and deep reinforcement learning.",
+      "summary_basis": "arXiv abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "arXiv API",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": "Preprint; no journal version found on Crossref/OpenAlex/ORCID on 2026-10-10. Covered by Yedioth Ahronoth (17 Feb 2025)."
+      }
+    },
+    {
+      "id": "labib-010",
+      "slug": "2024-coffee-leaf-rust-economic-epidemiology",
+      "title": "Economical–epidemiological analysis of the coffee trees rust pandemic",
+      "authors": [
+        "Teddy Lazebnik",
+        "Ariel Rosenfeld",
+        "Labib Shami"
+      ],
+      "year": 2024,
+      "venue": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+      "volume": "34",
+      "issue": "11",
+      "pages": "113112",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2024-11-06",
+      "date_issue": "2024-11",
+      "doi": "10.1063/5.0221945",
+      "url": "https://doi.org/10.1063/5.0221945",
+      "open_access": true,
+      "license": "CC BY-NC 4.0",
+      "versions": [
+        {
+          "label": "Preprint (arXiv:2304.14515)",
+          "url": "https://arxiv.org/abs/2304.14515",
+          "note": "Earlier version"
+        }
+      ],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "Builds a high-resolution spatio-temporal economic-epidemiological model of how coffee leaf rust spreads across farms and what it costs. Simulations for Colombia indicate that sustaining profits is impractical without directly tackling the disease.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "PubMed record 39504097",
+          "arXiv API"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-011",
+      "slug": "2024-technological-incubators-periphery",
+      "title": "The technological incubators program as a growth generator of peripheral areas in Israel",
+      "authors": [
+        "Gil Cohen",
+        "Limor Yehuda",
+        "Sagit Barel-Shaked",
+        "Labib Shami",
+        "Arie Herscovici",
+        "Osnat Akirav"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Entrepreneurship and Small Business",
+      "volume": "51",
+      "issue": "1",
+      "pages": "120–136",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.1504/IJESB.2024.135224",
+      "url": "https://doi.org/10.1504/IJESB.2024.135224",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Examines Israel's technological incubator programme in peripheral regions through a value-chain lens. The main challenge it identifies is building a local ecosystem, with mentoring partners and access to university or hospital facilities, that supports ventures during and after incubation.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "Publisher landing page"
+        ],
+        "notes": "Inderscience registered two DOIs per article (an early 10.1504/IJESB.2024.100xxxxx DOI and a final DOI) with different author orders in Crossref. Author order here follows the final DOI and the Inderscience landing page; confirm with Dr. Shami."
+      }
+    },
+    {
+      "id": "labib-012",
+      "slug": "2024-multi-layered-entrepreneurship-women-mayors",
+      "title": "Multi-layered entrepreneurship: perspectives of women candidates for mayor",
+      "authors": [
+        "Osnat Akirav",
+        "Arie Hershkovici",
+        "Limor Yehuda",
+        "Sagit Barel-Shaked",
+        "Labib Shami",
+        "Gil Cohen"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Entrepreneurship and Small Business",
+      "volume": "51",
+      "issue": "2",
+      "pages": "218–237",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.1504/IJESB.2024.135707",
+      "url": "https://doi.org/10.1504/IJESB.2024.135707",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Combines research on women's entrepreneurship, political ambition and gender mainstreaming into the concept of “multi-layered entrepreneurship”, explored through in-depth interviews with women who ran for mayor.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page"
+        ],
+        "notes": "Inderscience registered two DOIs per article (an early 10.1504/IJESB.2024.100xxxxx DOI and a final DOI) with different author orders in Crossref. Author order here follows the final DOI and the Inderscience landing page; confirm with Dr. Shami. Publisher spells the co-author 'Arie Hershkovici' on this article."
+      }
+    },
+    {
+      "id": "labib-013",
+      "slug": "2024-social-entrepreneurship-core-domains",
+      "title": "The circular, step by step - three core domains, social entrepreneurship model",
+      "authors": [
+        "Limor Yehuda",
+        "Sagit Barel-Shaked",
+        "Labib Shami",
+        "Gil Cohen",
+        "Osnat Akirav",
+        "Arie Herscovici"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Entrepreneurship and Small Business",
+      "volume": "51",
+      "issue": "4",
+      "pages": "433–452",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.1504/IJESB.2024.136942",
+      "url": "https://doi.org/10.1504/IJESB.2024.136942",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Uses a case study of an organisation working to reduce agricultural crime to identify the core domains of social enterprises and to formulate a working model of social entrepreneurship.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page"
+        ],
+        "notes": "Inderscience registered two DOIs per article (an early 10.1504/IJESB.2024.100xxxxx DOI and a final DOI) with different author orders in Crossref. Author order here follows the final DOI and the Inderscience landing page; confirm with Dr. Shami."
+      }
+    },
+    {
+      "id": "labib-014",
+      "slug": "2024-farmers-typology-policy-reform",
+      "title": "Farmers' typology in an environment of policy reform",
+      "authors": [
+        "Sagit Barel-Shaked",
+        "Labib Shami",
+        "Arie Herscovici",
+        "Osnat Akirav",
+        "Gil Cohen",
+        "Limor Yehuda"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Entrepreneurship and Small Business",
+      "volume": "52",
+      "issue": "1",
+      "pages": "116–130",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.1504/IJESB.2024.137753",
+      "url": "https://doi.org/10.1504/IJESB.2024.137753",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Builds a typology of the strategies Israeli egg farmers adopt as a policy reform threatens their economic viability, identifying contrasting farmer identities, including farmers driven mainly by non-economic goals.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page",
+          "University of Haifa CRIS record"
+        ],
+        "notes": "Inderscience registered two DOIs per article (an early 10.1504/IJESB.2024.100xxxxx DOI and a final DOI) with different author orders in Crossref. Author order here follows the final DOI and the Inderscience landing page; confirm with Dr. Shami."
+      }
+    },
+    {
+      "id": "labib-015",
+      "slug": "2024-informal-self-employment-israel",
+      "title": "Informal self-employment within the non-observed economy of Israel",
+      "authors": [
+        "Labib Shami",
+        "Gil Cohen",
+        "Osnat Akirav",
+        "Arie Herscovici",
+        "Limor Yehuda",
+        "Sagit Barel-Shaked"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Entrepreneurship and Small Business",
+      "volume": "52",
+      "issue": "2",
+      "pages": "159–180",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.1504/IJESB.2024.138271",
+      "url": "https://doi.org/10.1504/IJESB.2024.138271",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "non-observed"
+      ],
+      "summary": "Adapts a currency-demand approach to the Israeli economy to estimate the size of the non-observed economy and the share that comes from informal activity by the self-employed, finding a downward trend over the preceding decade.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page",
+          "University of Haifa CRIS record"
+        ],
+        "notes": "Inderscience registered two DOIs per article (an early 10.1504/IJESB.2024.100xxxxx DOI and a final DOI) with different author orders in Crossref. Author order here follows the final DOI and the Inderscience landing page; confirm with Dr. Shami."
+      }
+    },
+    {
+      "id": "labib-016",
+      "slug": "2024-lean-startup-smart-city-tel-aviv",
+      "title": "Lean startup as a model for smart city projects: the case of Tel Aviv-Yafo",
+      "authors": [
+        "Arie Herscovici",
+        "Osnat Akirav",
+        "Gil Cohen",
+        "Limor Yehuda",
+        "Sagit Barel-Shaked",
+        "Labib Shami"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Entrepreneurship and Small Business",
+      "volume": "53",
+      "issue": "2",
+      "pages": "245–257",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.1504/IJESB.2024.140931",
+      "url": "https://doi.org/10.1504/IJESB.2024.140931",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "smes-local"
+      ],
+      "summary": "Argues that cities adopting information and communication technology also adopt management methods from the technology industry, illustrated by the lean-startup approach in Tel Aviv-Yafo's smart city project.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Publisher landing page"
+        ],
+        "notes": "Inderscience registered two DOIs per article (an early 10.1504/IJESB.2024.100xxxxx DOI and a final DOI) with different author orders in Crossref. Author order here follows the final DOI and the Inderscience landing page; confirm with Dr. Shami."
+      }
+    },
+    {
+      "id": "labib-017",
+      "slug": "2024-machine-learning-non-observed-economy",
+      "title": "Implementing Machine Learning Methods in Estimating the Size of the Non-observed Economy",
+      "authors": [
+        "Labib Shami",
+        "Teddy Lazebnik"
+      ],
+      "year": 2024,
+      "venue": "Computational Economics",
+      "volume": "63",
+      "issue": "4",
+      "pages": "1459–1476",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2023-02-17",
+      "date_issue": "2024-04",
+      "doi": "10.1007/s10614-023-10369-4",
+      "url": "https://doi.org/10.1007/s10614-023-10369-4",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "non-observed"
+      ],
+      "summary": "Shows that machine-learning methods, notably a random forest, estimate currency demand more accurately than the standard currency-demand regressions, improving estimates of the size of unregistered economic activity.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-018",
+      "slug": "2024-microfounded-tax-revenue-forecast",
+      "title": "Microfounded Tax Revenue Forecast Model with Heterogeneous Population and Genetic Algorithm Approach",
+      "authors": [
+        "Ariel Alexi",
+        "Teddy Lazebnik",
+        "Labib Shami"
+      ],
+      "year": 2024,
+      "venue": "Computational Economics",
+      "volume": "63",
+      "issue": "5",
+      "pages": "1705–1734",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2023-04-21",
+      "date_issue": "2024-05",
+      "doi": "10.1007/s10614-023-10379-2",
+      "url": "https://doi.org/10.1007/s10614-023-10379-2",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "non-observed"
+      ],
+      "summary": "An agent-based model of consumers and businesses with heterogeneous attributes, whose decisions evolve through a genetic algorithm, used to forecast local tax revenues and evaluate taxation policies. It is tested against a small village's recorded tax data.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-019",
+      "slug": "2023-academic-co-authorship-risky-game",
+      "title": "Academic co-authorship is a risky game",
+      "authors": [
+        "Teddy Lazebnik",
+        "Stephan Beck",
+        "Labib Shami"
+      ],
+      "year": 2023,
+      "venue": "Scientometrics",
+      "volume": "128",
+      "issue": "12",
+      "pages": "6495–6507",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2023-10-25",
+      "date_issue": "2023-12",
+      "doi": "10.1007/s11192-023-04843-x",
+      "url": "https://link.springer.com/article/10.1007/s11192-023-04843-x",
+      "open_access": true,
+      "license": "CC BY 4.0",
+      "versions": [
+        {
+          "label": "Preprint (arXiv:2207.13170)",
+          "url": "https://arxiv.org/abs/2207.13170",
+          "note": "Earlier version, not counted separately"
+        }
+      ],
+      "themes": [
+        "political-economy"
+      ],
+      "summary": "A game-theoretic model of co-authored research in which an author can issue an ultimatum, blocking publication unless given more credit. It explores how contributions, project duration and stage, and team size affect the incentive to do so.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "arXiv API"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-020",
+      "slug": "2023-optimal-border-closure-pandemic",
+      "title": "A hybrid mathematical model for an optimal border closure policy during a pandemic",
+      "authors": [
+        "Teddy Lazebnik",
+        "Labib Shami",
+        "Svetlana Bunimovich-Mendrazitsky"
+      ],
+      "year": 2023,
+      "venue": "International Journal of Applied Mathematics and Computer Science",
+      "volume": "33",
+      "issue": "4",
+      "pages": "",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "",
+      "doi": "10.34768/amcs-2023-0042",
+      "url": "https://doi.org/10.34768/amcs-2023-0042",
+      "open_access": true,
+      "license": "Open access (journal licence not recorded in Crossref)",
+      "versions": [],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "A hybrid epidemiological and economic model, with an artificial-intelligence component, to help decision-makers choose border-closure policies during a health crisis that limit an outbreak while protecting tourism revenue.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-021",
+      "slug": "2023-financing-epidemiological-economic-crises",
+      "title": "Financing and managing epidemiological-economic crises: Are we ready for another outbreak?",
+      "authors": [
+        "Labib Shami",
+        "Teddy Lazebnik"
+      ],
+      "year": 2023,
+      "venue": "Journal of Policy Modeling",
+      "volume": "45",
+      "issue": "1",
+      "pages": "74–89",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "2023-01",
+      "doi": "10.1016/j.jpolmod.2023.02.003",
+      "url": "https://doi.org/10.1016/j.jpolmod.2023.02.003",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "Outlines economic readiness for a future epidemiological-economic crisis: a dedicated, income-tax-financed budget for crisis spending and a reserve programme for workers in essential sectors, both designed to reduce social and economic costs.",
+      "summary_basis": "abstract as listed on co-author lab website (ACML) data",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-022",
+      "slug": "2023-pandemic-interventions-input-output-networks",
+      "title": "Intervention policy influence on the effect of epidemiological crisis on industry-level production through input–output networks",
+      "authors": [
+        "Teddy Lazebnik",
+        "Labib Shami",
+        "Svetlana Bunimovich-Mendrazitsky"
+      ],
+      "year": 2023,
+      "venue": "Socio-Economic Planning Sciences",
+      "volume": "87",
+      "issue": "",
+      "pages": "101553",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2023-02-24",
+      "date_issue": "2023-06",
+      "doi": "10.1016/j.seps.2023.101553",
+      "url": "https://doi.org/10.1016/j.seps.2023.101553",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "Combines epidemiological, social and economic sub-models to measure how pandemic interventions (work capsules, working from home, vaccination and industry closures) affect output across industries linked by input–output networks. Working from home reduces output losses considerably more than work capsules.",
+      "summary_basis": "abstract as listed on co-author lab website (ACML) data",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": "Research pack lacked this DOI; resolved via Crossref/ORCID."
+      }
+    },
+    {
+      "id": "labib-023",
+      "slug": "2023-pandemic-management-spatio-temporal-model",
+      "title": "Pandemic management by a spatio–temporal mathematical model",
+      "authors": [
+        "Teddy Lazebnik",
+        "Svetlana Bunimovich-Mendrazitsky",
+        "Labib Shami"
+      ],
+      "year": 2023,
+      "venue": "International Journal of Nonlinear Sciences and Numerical Simulation",
+      "volume": "24",
+      "issue": "6",
+      "pages": "2307–2324",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2021-08-09",
+      "date_issue": "2023-10",
+      "doi": "10.1515/ijnsns-2021-0063",
+      "url": "https://doi.org/10.1515/ijnsns-2021-0063",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "A spatio-temporal epidemic model that accounts for disease severity and for heterogeneous contacts across age and susceptibility, used to design and evaluate strategies for managing the COVID-19 pandemic in three countries.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-024",
+      "slug": "2022-new-strain-detection-economics",
+      "title": "Economic aspects of the detection of new strains in a multi-strain epidemiological–mathematical model",
+      "authors": [
+        "Labib Shami",
+        "Teddy Lazebnik"
+      ],
+      "year": 2022,
+      "venue": "Chaos, Solitons & Fractals",
+      "volume": "165",
+      "issue": "",
+      "pages": "112823",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "",
+      "date_issue": "2022-12",
+      "doi": "10.1016/j.chaos.2022.112823",
+      "url": "https://doi.org/10.1016/j.chaos.2022.112823",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "Uses an epidemiological, genomic and economic model to study testing policies for detecting new pathogen strains. A well-designed genomic-sequencing policy can be both economically and epidemiologically efficient, while random population sampling gives sub-optimal results.",
+      "summary_basis": "abstract as listed on co-author lab website (ACML) data",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-025",
+      "slug": "2022-non-pharmaceutical-interventions-covid-economy",
+      "title": "Spatio-Temporal influence of Non-Pharmaceutical interventions policies on pandemic dynamics and the economy: the case of COVID-19",
+      "authors": [
+        "Teddy Lazebnik",
+        "Labib Shami",
+        "Svetlana Bunimovich-Mendrazitsky"
+      ],
+      "year": 2022,
+      "venue": "Economic Research-Ekonomska Istraživanja",
+      "volume": "35",
+      "issue": "1",
+      "pages": "1833–1861",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2021-05-26",
+      "date_issue": "2022-12",
+      "doi": "10.1080/1331677X.2021.1925573",
+      "url": "https://doi.org/10.1080/1331677X.2021.1925573",
+      "open_access": true,
+      "license": "CC BY 4.0",
+      "versions": [],
+      "themes": [
+        "crisis"
+      ],
+      "summary": "A graph-based spatio-temporal SIR model that jointly assesses how non-pharmaceutical interventions, such as the length of working and school days and lockdowns, affect both pandemic spread and economic losses, calibrated with Israeli data.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-026",
+      "slug": "2021-political-economy-religion-labor",
+      "title": "The Political Economy of Religion and Labor",
+      "authors": [
+        "Labib Shami",
+        "Osnat Akirav"
+      ],
+      "year": 2021,
+      "venue": "Handbook of Labor, Human Resources and Population Economics (ed. Klaus F. Zimmermann), Springer",
+      "volume": "",
+      "issue": "",
+      "pages": "1–24",
+      "type": "book-chapter",
+      "status": "published",
+      "date_online": "2021-10-29",
+      "date_issue": "",
+      "doi": "10.1007/978-3-319-57365-6_227-1",
+      "url": "https://doi.org/10.1007/978-3-319-57365-6_227-1",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "political-economy"
+      ],
+      "summary": "Brings economics and political science together to examine how religious actors gain political influence and use it to shape labour-market policy and their followers' work behaviour, with Israel's ultra-Orthodox community as a central case.",
+      "summary_basis": "publisher abstract",
+      "featured": false,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "Publisher landing page"
+        ],
+        "notes": "Research pack lacked this DOI; resolved via Crossref. Springer living-reference chapter (version 1)."
+      }
+    },
+    {
+      "id": "labib-027",
+      "slug": "2020-towards-a-cashless-economy",
+      "title": "Towards a cashless economy: Economic and socio-political implications",
+      "authors": [
+        "Nissim Cohen",
+        "Anna Rubinchik",
+        "Labib Shami"
+      ],
+      "year": 2020,
+      "venue": "European Journal of Political Economy",
+      "volume": "61",
+      "issue": "",
+      "pages": "101820",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2019-10",
+      "date_issue": "2020-01",
+      "doi": "10.1016/j.ejpoleco.2019.101820",
+      "url": "https://doi.org/10.1016/j.ejpoleco.2019.101820",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "money-credit",
+        "non-observed"
+      ],
+      "summary": "A general-equilibrium model of an economy with official and informal sectors, showing how eliminating cash can misallocate resources and reduce the gains from trade, alongside other unintended consequences of abolishing cash.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Semantic Scholar abstract",
+          "University of Haifa CRIS record"
+        ],
+        "notes": ""
+      }
+    },
+    {
+      "id": "labib-028",
+      "slug": "2019-dynamic-monetary-equilibrium-non-observed-economy",
+      "title": "Dynamic monetary equilibrium with a Non-Observed Economy and Shapley and Shubik’s price mechanism",
+      "authors": [
+        "Labib Shami"
+      ],
+      "year": 2019,
+      "venue": "Journal of Macroeconomics",
+      "volume": "62",
+      "issue": "",
+      "pages": "103018",
+      "type": "journal-article",
+      "status": "published",
+      "date_online": "2018-04-16",
+      "date_issue": "2019-12",
+      "doi": "10.1016/j.jmacro.2018.04.006",
+      "url": "https://doi.org/10.1016/j.jmacro.2018.04.006",
+      "open_access": false,
+      "license": "",
+      "versions": [],
+      "themes": [
+        "money-credit",
+        "non-observed"
+      ],
+      "summary": "A general-equilibrium model with inside and outside money, tax-evading households, a government and a central bank. It shows how inflation, as a monetary-policy instrument, interacts dynamically with the size of the non-observed economy, and uses Shapley and Shubik's price mechanism to establish a monetary equilibrium in which formal and informal markets coexist.",
+      "summary_basis": "publisher abstract",
+      "featured": true,
+      "verification": {
+        "checked": "2026-10-10",
+        "sources": [
+          "Crossref REST API record (read via in-app browser)",
+          "OpenAlex works record for ORCID 0000-0002-3127-5109",
+          "ORCID public record works list",
+          "Semantic Scholar abstract",
+          "2021 CV (doctoral thesis of the same title)"
+        ],
+        "notes": "Shares its title with the 2018 doctoral thesis. The 2021 CV lists it twice (2018 online, 2019 issue); counted once."
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "taub-001",
+    "title": "The Consumer Price Index, Housing Costs, Consumer Credit, and the Cost of Living",
+    "year": 2026,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/housing-and-cpi-2026/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "cost-of-living",
+    "source_ids": [
+      "R001",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-002",
+    "title": "Owning or Renting? The Dynamics of Housing Tenure in Israel",
+    "year": 2026,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/housing-tenure/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "housing",
+    "source_ids": [
+      "R002",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-003",
+    "title": "Is the Israeli Economy Recovering?",
+    "year": 2025,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/snr-2025-macro/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "macroeconomics",
+    "source_ids": [
+      "R003",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-004",
+    "title": "Israel’s Economy 2024: A Nation at War",
+    "year": 2024,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/israels-economy-2024/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "macroeconomics",
+    "source_ids": [
+      "R004",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-005",
+    "title": "The Israeli Economy on the Eve of the October War: A Macro-Economic Review",
+    "year": 2023,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/economy-eve-of-war/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "macroeconomics",
+    "source_ids": [
+      "R005",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-006",
+    "title": "Interest, Inflation, and Mortgages in Israel",
+    "year": 2023,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/interest-inflation-and-mortgages/",
+    "authors_confirmed": [
+      "Labib Shami",
+      "Ori Oberman",
+      "Benjamin Bental"
+    ],
+    "topic": "housing",
+    "source_ids": [
+      "R006",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-007",
+    "title": "Migration Patterns in Mixed Cities in Israel: Socioeconomic Perspectives",
+    "year": 2023,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/migration-patterns-in-mixed-cities-in-israel/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "demography",
+    "source_ids": [
+      "R007",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-008",
+    "title": "Macroeconomic Trends in Israel: An Overview (2022)",
+    "year": 2022,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/macroeconomic-trends-in-israel-2022/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "macroeconomics",
+    "source_ids": [
+      "R008",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-009",
+    "title": "Macroeconomic Trends: An Overview (2021)",
+    "year": 2021,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/macroeconomic-trends-an-overview-2021/",
+    "authors_confirmed": [
+      "Benjamin Bental",
+      "Labib Shami"
+    ],
+    "topic": "macroeconomics",
+    "source_ids": [
+      "R009",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-010",
+    "title": "Enrollment of Arab Children in Supervised Daycare",
+    "year": 2021,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/attendance-of-supervised-preschool-frameworks-by-arab-israeli-children/",
+    "authors_confirmed": [],
+    "topic": "education",
+    "source_ids": [
+      "R010",
+      "ID_TAUB"
+    ],
+    "status": "authorship_transliteration_check",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack",
+    "notes": "Official research page lists Shavit Ben-Porat, John Gal, Labib Shami, Avner Elizur; original 2021 PDF lists Shavit Madhala, Labib Shami, John Gal, Elon Seela. Verify proper citation from original before displaying."
+  },
+  {
+    "id": "taub-011",
+    "title": "The Impact of the Coronavirus on the Economy of Israel: An Overview",
+    "year": 2020,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/impact-coronavirus-economy-israel-eng/",
+    "authors_confirmed": [],
+    "topic": "macroeconomics",
+    "source_ids": [
+      "R011",
+      "ID_TAUB"
+    ],
+    "status": "check_page",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-012",
+    "title": "The Non-Observed Economy in Israel",
+    "year": 2020,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/the-non-observed-economy-in-israel/",
+    "authors_confirmed": [],
+    "topic": "informal-economy",
+    "source_ids": [
+      "R012",
+      "ID_TAUB"
+    ],
+    "status": "check_page",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  },
+  {
+    "id": "taub-013",
+    "title": "Household Debt in Israel",
+    "year": 2019,
+    "organization": "Taub Center",
+    "url": "https://www.taubcenter.org.il/en/research/household-debt-in-israel/",
+    "authors_confirmed": [
+      "Labib Shami"
+    ],
+    "topic": "household-finance",
+    "source_ids": [
+      "R013",
+      "ID_TAUB"
+    ],
+    "status": "verified_mention",
+    "pdf_included": false,
+    "full_report_republication_rights": "not_granted_by_this_pack"
+  }
+]

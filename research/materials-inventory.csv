@@ -1,0 +1,30 @@
+path,type,category,modified,size_bytes,used,private_flag,rights_status,notes
+labib-shami-research-pack/README.md,md,index,2026-10-10,3405,read,no,own-research-notes; links only,Offline index
+labib-shami-research-pack/RESEARCH_INDEX.html,html,index,2026-10-10,20344,read,no,own-research-notes; links only,Offline index
+labib-shami-research-pack/SCOPE_AND_LIMITATIONS.md,md,index,2026-10-10,1012,read,no,own-research-notes; links only,Offline index
+labib-shami-research-pack/assets/PHOTO_AND_MEDIA_RIGHTS.md,md,asset-register,2026-10-10,1352,yes,no,own-research-notes; links only,Portrait URLs are discovery-only; nothing downloaded or used
+labib-shami-research-pack/assets/asset_manifest.csv,csv,asset-register,2026-10-10,1075,yes,no,own-research-notes; links only,Portrait URLs are discovery-only; nothing downloaded or used
+labib-shami-research-pack/assets/asset_manifest.json,json,asset-register,2026-10-10,1592,yes,no,own-research-notes; links only,Portrait URLs are discovery-only; nothing downloaded or used
+labib-shami-research-pack/brief/HOMEPAGE_COPY_IDEAS.md,md,editorial-brief,2026-10-10,1336,yes,no,own-research-notes; links only,Blueprint followed; copy treated as suggestions
+labib-shami-research-pack/brief/WEBSITE_BLUEPRINT.md,md,editorial-brief,2026-10-10,3928,yes,no,own-research-notes; links only,Blueprint followed; copy treated as suggestions
+labib-shami-research-pack/media/media.csv,csv,media,2026-10-10,3799,yes,no,own-research-notes; links only,"Superseded by site/data/media.json (corrections, 5 additions)"
+labib-shami-research-pack/media/media.json,json,media,2026-10-10,6771,yes,no,own-research-notes; links only,"Superseded by site/data/media.json (corrections, 5 additions)"
+labib-shami-research-pack/papers/PDF_LINKS_AND_PERMISSIONS.md,md,pdf-permissions,2026-10-10,2642,yes,no,own-research-notes; links only,No PDFs present; none mirrored
+labib-shami-research-pack/papers/PDF_LINKS_QUEUE.csv,csv,pdf-permissions,2026-10-10,1540,yes,no,own-research-notes; links only,No PDFs present; none mirrored
+labib-shami-research-pack/policy/taub_center_reports.csv,csv,policy-reports,2026-10-10,3089,yes,no,own-research-notes; links only,Superseded by site/data/policy.json (corrections)
+labib-shami-research-pack/policy/taub_center_reports.json,json,policy-reports,2026-10-10,7034,yes,no,own-research-notes; links only,Superseded by site/data/policy.json (corrections)
+labib-shami-research-pack/profile/APPROVAL_QUESTIONS.md,md,biography,2026-10-10,2321,yes,no,own-research-notes; links only,Facts re-verified online; draft bios adapted (3rd person)
+labib-shami-research-pack/profile/PROPOSED_BIO.md,md,biography,2026-10-10,2280,yes,no,own-research-notes; links only,Facts re-verified online; draft bios adapted (3rd person)
+labib-shami-research-pack/profile/verified_profile.json,json,biography,2026-10-10,3021,yes,no,own-research-notes; links only,Facts re-verified online; draft bios adapted (3rd person)
+labib-shami-research-pack/prompts/CLAUDE_CODE_START.md,md,instructions,2026-10-10,5170,read,no,own-research-notes; links only,Instructions only
+labib-shami-research-pack/publications/FEATURED_RESEARCH.md,md,bibliography,2026-10-10,2078,yes,no,own-research-notes; links only,Superseded by research/publications-master.json
+labib-shami-research-pack/publications/draft_publications.bib,bib,bibliography,2026-10-10,9758,yes,no,own-research-notes; links only,Superseded by research/publications-master.json
+labib-shami-research-pack/publications/publications.csv,csv,bibliography,2026-10-10,8576,yes,no,own-research-notes; links only,Superseded by research/publications-master.json
+labib-shami-research-pack/publications/publications.json,json,bibliography,2026-10-10,18792,yes,no,own-research-notes; links only,Superseded by research/publications-master.json
+labib-shami-research-pack/sources/METHODOLOGY.md,md,provenance,2026-10-10,1989,yes,no,own-research-notes; links only,Provenance URLs re-checked selectively
+labib-shami-research-pack/sources/source_registry.csv,csv,provenance,2026-10-10,18118,yes,no,own-research-notes; links only,Provenance URLs re-checked selectively
+labib-shami-research-pack/sources/source_registry.json,json,provenance,2026-10-10,28022,yes,no,own-research-notes; links only,Provenance URLs re-checked selectively
+labib-shami-research-pack/tools/validate_data.py,py,tool,2026-10-10,1688,read,no,own-research-notes; links only,Validator (stdlib)
+materials/README.txt,txt,instructions,2026-10-10,338,read,no,n/a,"No additional materials (no CV, photos, PDFs, slides) were supplied"
+labib-shami-claude-start.md (chat upload),md,instructions,2026-10-10,5170,yes,no,n/a,Master prompt
+"CLAUDE.md, PROMPT_FOR_CLAUDE.md, PROFILE_INPUT.md, .claude/skills/*",md,instructions,2026-10-10,,yes,no,n/a,Kit instructions followed; PROFILE_INPUT.md is empty

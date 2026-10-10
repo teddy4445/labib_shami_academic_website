@@ -1,0 +1,93 @@
+{
+  "name": {
+    "english": "Labib Shami",
+    "hebrew": "לביב שאמי",
+    "arabic": "لبيب شامي",
+    "display": "Dr. Labib Shami"
+  },
+  "identity_status": "verified_by_official_institutional_sources",
+  "roles": [
+    {
+      "role": "Senior Researcher",
+      "institution": "Taub Center for Social Policy Studies in Israel",
+      "source_id": "ID_TAUB",
+      "current_as_of": "2026-10-10"
+    },
+    {
+      "role": "Economics department staff/faculty member",
+      "institution": "Western Galilee College",
+      "source_id": "ID_TAUB",
+      "current_as_of": "2026-10-10",
+      "note": "Senior lecturer is claimed by college conference bio; exact rank to confirm before publication"
+    },
+    {
+      "role": "Teaching Associate, Department of Economics",
+      "institution": "University of Haifa",
+      "source_id": "ID_HAIFA",
+      "current_as_of": "2026-10-10"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD Economics",
+      "institution": "University of Haifa",
+      "year": 2018,
+      "source_id": "ID_CV_2021"
+    },
+    {
+      "degree": "Second degree, Economics",
+      "institution": "University of Haifa and Technion",
+      "year": 2015,
+      "source_id": "ID_CV_2021"
+    },
+    {
+      "degree": "First degree, Economics",
+      "institution": "Open University",
+      "year": 2011,
+      "source_id": "ID_CV_2021"
+    }
+  ],
+  "doctoral_thesis": "Dynamic Monetary Equilibrium with a Non-Observed Economy and Shapley and Shubik’s Price Mechanism",
+  "doctoral_supervisors": [
+    "Anna Rubinchik",
+    "Nissim Cohen"
+  ],
+  "research_topics": [
+    "monetary policy",
+    "macroeconomics",
+    "the non-observed/informal economy",
+    "taxation and tax evasion",
+    "small and medium-sized enterprises",
+    "economics of crises",
+    "computational and agent-based economic models"
+  ],
+  "public_work_contact": {
+    "email": "labibs@taubcenter.org.il",
+    "source_id": "ID_TAUB",
+    "publish_after_confirmation": true
+  },
+  "orcid": "0000-0002-3127-5109",
+  "links": {
+    "Taub Center": "https://www.taubcenter.org.il/en/team/labib-shami/",
+    "University of Haifa": "https://cris.haifa.ac.il/en/persons/labib-shami/",
+    "Western Galilee College CV (2021)": "https://www.wgalil.ac.il/wp-content/uploads/2021/12/Shami_Labib_2021.pdf",
+    "ResearchGate": "https://www.researchgate.net/profile/Labib-Shami",
+    "dblp": "https://dblp.org/pid/325/4410.html",
+    "ORCID": "https://orcid.org/0000-0002-3127-5109",
+    "LinkedIn": "https://il.linkedin.com/in/labib-shami-b97b0521a"
+  },
+  "profile_sources": [
+    "ID_TAUB",
+    "ID_HAIFA",
+    "ID_WGC_CONF",
+    "ID_CV_2021",
+    "ID_PUBMED"
+  ],
+  "permissions_and_unresolved": [
+    "Confirm public use of exact college academic title",
+    "Confirm preferred portrait and permissions",
+    "Confirm preferred email and media/speaking inquiries",
+    "Confirm exact publication list, coauthors, and latest status",
+    "Confirm guidebook publication years: Taub 2018/2015 vs conference 2019/2017"
+  ]
+}

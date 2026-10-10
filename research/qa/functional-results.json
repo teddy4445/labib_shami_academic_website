@@ -1,0 +1,262 @@
+[
+ {
+  "test": "Skip link is first focusable and becomes visible",
+  "result": "pass",
+  "detail": "['skip-link', 12]"
+ },
+ {
+  "test": "Skip link moves to #main",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Visible focus outline on keyboard focus",
+  "result": "pass",
+  "detail": "solid 3px"
+ },
+ {
+  "test": "Menu toggle visible on mobile",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Menu opens (aria-expanded=true, nav visible)",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Focus moves into menu",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Escape closes menu and returns focus",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Click outside closes menu",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Bibliography renders all 28 entries",
+  "result": "pass",
+  "detail": "Showing all 28 works"
+ },
+ {
+  "test": "Search by co-author",
+  "result": "pass",
+  "detail": "15 – Showing 15 of 28 works"
+ },
+ {
+  "test": "Multi-term search (AND)",
+  "result": "pass",
+  "detail": "5"
+ },
+ {
+  "test": "Accent-insensitive search (Istraživanja)",
+  "result": "pass",
+  "detail": "1"
+ },
+ {
+  "test": "Strange characters: no error, empty state shown",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Empty-state reset restores all",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Type filter: preprints",
+  "result": "pass",
+  "detail": "2"
+ },
+ {
+  "test": "Type filter: book chapter",
+  "result": "pass",
+  "detail": "1"
+ },
+ {
+  "test": "Theme filter: non-observed",
+  "result": "pass",
+  "detail": "7"
+ },
+ {
+  "test": "URL reflects filters",
+  "result": "pass",
+  "detail": "http://localhost:8000/research.html?topic=non-observed"
+ },
+ {
+  "test": "Sort oldest first",
+  "result": "pass",
+  "detail": "2019"
+ },
+ {
+  "test": "Reset button restores defaults",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Deep link ?topic=crisis preselects filter",
+  "result": "pass",
+  "detail": "8"
+ },
+ {
+  "test": "Policy chip filter (non-observed economy)",
+  "result": "pass",
+  "detail": "1 reports, 1 sections"
+ },
+ {
+  "test": "Policy chip aria-pressed",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "Policy deep link ?theme=macro",
+  "result": "pass",
+  "detail": "6"
+ },
+ {
+  "test": "Media deep link ?type=radio",
+  "result": "pass",
+  "detail": "2"
+ },
+ {
+  "test": "Video facade swaps in youtube-nocookie iframe on click",
+  "result": "pass",
+  "detail": "https://www.youtube-nocookie.com/embed/WEEY-snVFaQ?autoplay=1&rel=0"
+ },
+ {
+  "test": "Copy citation to clipboard",
+  "result": "pass",
+  "detail": "Shami, L. (2019). Dynamic monetary equilibrium with a Non-Ob"
+ },
+ {
+  "test": "No-JS: full bibliography visible",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "No-JS: filter form hidden (no dead controls)",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "No-JS: navigation links visible on mobile",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "No-JS: media items and outbound links present",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "GitHub Pages subpath: all assets load (no 4xx/5xx)",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "No third-party requests on page load",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "200% text size: no horizontal overflow at 1280px",
+  "result": "pass",
+  "detail": ""
+ },
+ {
+  "test": "axe light: index.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: research.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: policy.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: media.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: teaching.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: about.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: 404.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: publications/2019-dynamic-monetary-equilibrium-non-observed-economy/",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe light: publications/2026-un-financing-cooperative-game/",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: index.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: research.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: policy.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: media.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: teaching.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: about.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: 404.html",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: publications/2019-dynamic-monetary-equilibrium-non-observed-economy/",
+  "result": "pass",
+  "detail": "[]"
+ },
+ {
+  "test": "axe dark: publications/2026-un-financing-cooperative-game/",
+  "result": "pass",
+  "detail": "[]"
+ }
+]

@@ -1,0 +1,636 @@
+[
+  {
+    "id": "labib-001",
+    "title": "Cooperative Game-Theoretic Framework for Sustainable UN Financing: An Application to Global Public Goods Provision",
+    "year": 2026,
+    "venue": "Economies",
+    "type": "journal_article",
+    "doi": "10.3390/economies14070263",
+    "url": "https://www.mdpi.com/2227-7099/14/7/263",
+    "authors_verified": [
+      "Labib Shami",
+      "Teddy Lazebnik"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "international-public-finance",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P001",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-002",
+    "title": "Local context, local solutions: increasing returns from municipal policies supporting SMEs",
+    "year": 2026,
+    "venue": "Small Enterprise Research",
+    "type": "journal_article",
+    "doi": "10.1080/13215906.2026.2671915",
+    "url": "https://doi.org/10.1080/13215906.2026.2671915",
+    "authors_verified": [
+      "Israel Rachevski",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P002",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-003",
+    "title": "SME resilience in wartime: the constraints of innovation",
+    "year": 2026,
+    "venue": "Innovation: Organization and Management",
+    "type": "journal_article",
+    "doi": "10.1080/14479338.2026.2662235",
+    "url": "https://doi.org/10.1080/14479338.2026.2662235",
+    "authors_verified": [
+      "Labib Shami",
+      "Israel Rachevski"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "smes-local-policy",
+    "status": "online_or_in_press",
+    "source_ids": [
+      "P003",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-004",
+    "title": "Tell Me Who Your Neighbors Are and I Will Tell You Your Informal Economy Size: The Case of Sweden",
+    "year": 2026,
+    "venue": "Computational Economics",
+    "type": "journal_article",
+    "doi": "10.1007/s10614-025-11276-6",
+    "url": "https://link.springer.com/article/10.1007/s10614-025-11276-6",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Labib Shami",
+      "Einav Peretz-Andersson"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "informal-economy-ai",
+    "status": "online_or_in_press",
+    "source_ids": [
+      "P004",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-005",
+    "title": "Beyond the First Impression: A Two-Period Screening Model under Probationary Employment",
+    "year": 2026,
+    "venue": "",
+    "type": "preprint",
+    "doi": "",
+    "url": "https://www.researchgate.net/profile/Labib-Shami",
+    "authors_verified": [
+      "Dan Lederman",
+      "Teddy Lazebnik",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "labor-economics",
+    "status": "preprint",
+    "source_ids": [
+      "P005",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-006",
+    "title": "Got much, got nothing: analyzing the impact of increased special interest groups’ influence on utility",
+    "year": 2025,
+    "venue": "Eurasian Economic Review",
+    "type": "journal_article",
+    "doi": "10.1007/s40822-025-00316-z",
+    "url": "https://doi.org/10.1007/s40822-025-00316-z",
+    "authors_verified": [
+      "Labib Shami",
+      "Teddy Lazebnik"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "public-finance",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P006",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-007",
+    "title": "Elusive competition: impact of non-bank credit providers’ financing on credit market competition",
+    "year": 2025,
+    "venue": "Journal of Banking Regulation",
+    "type": "journal_article",
+    "doi": "10.1057/s41261-024-00259-6",
+    "url": "https://doi.org/10.1057/s41261-024-00259-6",
+    "authors_verified": [
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "money-credit",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P007",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-008",
+    "title": "Twice as effective: business environment, SME owners’ satisfaction, and local government revenue performance",
+    "year": 2025,
+    "venue": "Local Government Studies",
+    "type": "journal_article",
+    "doi": "10.1080/03003930.2024.2378965",
+    "url": "https://doi.org/10.1080/03003930.2024.2378965",
+    "authors_verified": [
+      "Israel Rachevski",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P008",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": "Record uses final volume/issue year if known; online first may differ."
+  },
+  {
+    "id": "labib-009",
+    "title": "Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation",
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "doi": "10.48550/arXiv.2501.18177",
+    "url": "https://arxiv.org/abs/2501.18177",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "informal-economy-ai",
+    "status": "preprint",
+    "source_ids": [
+      "P009",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-010",
+    "title": "Economical–epidemiological analysis of the coffee trees rust pandemic",
+    "year": 2024,
+    "venue": "Chaos",
+    "type": "journal_article",
+    "doi": "10.1063/5.0221945",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39504097/",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Ariel Rosenfeld",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P010",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-011",
+    "title": "The technological incubators program as a growth generator of peripheral areas in Israel",
+    "year": 2024,
+    "venue": "International Journal of Entrepreneurship and Small Business",
+    "type": "journal_article",
+    "doi": "10.1504/IJESB.2024.135224",
+    "url": "https://doi.org/10.1504/IJESB.2024.135224",
+    "authors_verified": [],
+    "complete_author_list_verified": false,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P011",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-012",
+    "title": "Multi-layered entrepreneurship: perspectives of women candidates for mayor",
+    "year": 2024,
+    "venue": "International Journal of Entrepreneurship and Small Business",
+    "type": "journal_article",
+    "doi": "10.1504/IJESB.2024.135707",
+    "url": "https://doi.org/10.1504/IJESB.2024.135707",
+    "authors_verified": [],
+    "complete_author_list_verified": false,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P012",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-013",
+    "title": "The circular, step by step - three core domains, social entrepreneurship model",
+    "year": 2024,
+    "venue": "International Journal of Entrepreneurship and Small Business",
+    "type": "journal_article",
+    "doi": "10.1504/IJESB.2024.136942",
+    "url": "https://doi.org/10.1504/IJESB.2024.136942",
+    "authors_verified": [],
+    "complete_author_list_verified": false,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P013",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-014",
+    "title": "Farmers' typology in an environment of policy reform",
+    "year": 2024,
+    "venue": "International Journal of Entrepreneurship and Small Business",
+    "type": "journal_article",
+    "doi": "10.1504/IJESB.2024.137753",
+    "url": "https://doi.org/10.1504/IJESB.2024.137753",
+    "authors_verified": [],
+    "complete_author_list_verified": false,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P014",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-015",
+    "title": "Informal self-employment within the non-observed economy of Israel",
+    "year": 2024,
+    "venue": "International Journal of Entrepreneurship and Small Business",
+    "type": "journal_article",
+    "doi": "10.1504/IJESB.2024.138271",
+    "url": "https://doi.org/10.1504/IJESB.2024.138271",
+    "authors_verified": [],
+    "complete_author_list_verified": false,
+    "topic": "informal-economy-ai",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P015",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-016",
+    "title": "Lean startup as a model for smart city projects: the case of Tel Aviv-Yafo",
+    "year": 2024,
+    "venue": "International Journal of Entrepreneurship and Small Business",
+    "type": "journal_article",
+    "doi": "10.1504/IJESB.2024.140931",
+    "url": "https://doi.org/10.1504/IJESB.2024.140931",
+    "authors_verified": [],
+    "complete_author_list_verified": false,
+    "topic": "smes-local-policy",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P016",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-017",
+    "title": "Implementing Machine Learning Methods in Estimating the Size of the Non-observed Economy",
+    "year": 2024,
+    "venue": "Computational Economics",
+    "type": "journal_article",
+    "doi": "10.1007/s10614-023-10369-4",
+    "url": "https://doi.org/10.1007/s10614-023-10369-4",
+    "authors_verified": [
+      "Labib Shami",
+      "Teddy Lazebnik"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "informal-economy-ai",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P017",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-018",
+    "title": "Microfounded Tax Revenue Forecast Model with Heterogeneous Population and Genetic Algorithm Approach",
+    "year": 2024,
+    "venue": "Computational Economics",
+    "type": "journal_article",
+    "doi": "10.1007/s10614-023-10379-2",
+    "url": "https://doi.org/10.1007/s10614-023-10379-2",
+    "authors_verified": [
+      "Ariel Alexi",
+      "Teddy Lazebnik",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "informal-economy-ai",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P018",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-019",
+    "title": "Academic co-authorship is a risky game",
+    "year": 2023,
+    "venue": "Scientometrics",
+    "type": "journal_article",
+    "doi": "10.1007/s11192-023-04843-x",
+    "url": "https://link.springer.com/article/10.1007/s11192-023-04843-x",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Stephan Beck",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "computational-social-science",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P019",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-020",
+    "title": "A hybrid mathematical model for an optimal border closure policy during a pandemic",
+    "year": 2023,
+    "venue": "International Journal of Applied Mathematics and Computer Science",
+    "type": "journal_article",
+    "doi": "10.34768/AMCS-2023-0042",
+    "url": "https://dblp.org/rec/journals/amcs/LazebnikSB23",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Labib Shami",
+      "Svetlana Bunimovich-Mendrazitsky"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P020",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-021",
+    "title": "Financing and managing epidemiological-economic crises: Are we ready for another outbreak?",
+    "year": 2023,
+    "venue": "Journal of Policy Modeling",
+    "type": "journal_article",
+    "doi": "10.1016/j.jpolmod.2023.02.003",
+    "url": "https://doi.org/10.1016/j.jpolmod.2023.02.003",
+    "authors_verified": [
+      "Labib Shami",
+      "Teddy Lazebnik"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P021",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-022",
+    "title": "Intervention policy influence on the effect of epidemiological crisis on industry-level production through input-output networks",
+    "year": 2023,
+    "venue": "Socio-Economic Planning Sciences",
+    "type": "journal_article",
+    "doi": "",
+    "url": "https://www.researchgate.net/profile/Labib-Shami",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Labib Shami",
+      "Svetlana Bunimovich-Mendrazitsky"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P022",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-023",
+    "title": "Pandemic management by a spatio–temporal mathematical model",
+    "year": 2023,
+    "venue": "International Journal of Nonlinear Sciences and Numerical Simulation",
+    "type": "journal_article",
+    "doi": "10.1515/ijnsns-2021-0063",
+    "url": "https://doi.org/10.1515/ijnsns-2021-0063",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Svetlana Bunimovich-Mendrazitsky",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P023",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-024",
+    "title": "Economic aspects of the detection of new strains in a multi-strain epidemiological-mathematical model",
+    "year": 2022,
+    "venue": "Chaos, Solitons & Fractals",
+    "type": "journal_article",
+    "doi": "10.1016/j.chaos.2022.112823",
+    "url": "https://doi.org/10.1016/j.chaos.2022.112823",
+    "authors_verified": [
+      "Labib Shami",
+      "Teddy Lazebnik"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P024",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-025",
+    "title": "Spatio-Temporal influence of Non-Pharmaceutical interventions policies on pandemic dynamics and the economy: the case of COVID-19",
+    "year": 2022,
+    "venue": "Economic Research-Ekonomska Istraživanja",
+    "type": "journal_article",
+    "doi": "10.1080/1331677X.2021.1925573",
+    "url": "https://doi.org/10.1080/1331677X.2021.1925573",
+    "authors_verified": [
+      "Teddy Lazebnik",
+      "Labib Shami",
+      "Svetlana Bunimovich-Mendrazitsky"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "crisis-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P025",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": "Record uses final volume/issue year if known; online first may differ."
+  },
+  {
+    "id": "labib-026",
+    "title": "The Political Economy of Religion and Labor",
+    "year": 2021,
+    "venue": "Handbook of Labor, Human Resources and Population Economics",
+    "type": "book_chapter",
+    "doi": "",
+    "url": "https://www.researchgate.net/profile/Labib-Shami",
+    "authors_verified": [
+      "Labib Shami",
+      "Osnat Akirav"
+    ],
+    "complete_author_list_verified": false,
+    "topic": "labor-economics",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P026",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-027",
+    "title": "Towards a cashless economy: Economic and socio-political implications",
+    "year": 2020,
+    "venue": "European Journal of Political Economy",
+    "type": "journal_article",
+    "doi": "10.1016/j.ejpoleco.2019.101820",
+    "url": "https://doi.org/10.1016/j.ejpoleco.2019.101820",
+    "authors_verified": [
+      "Nissim Cohen",
+      "Anna Rubinchik",
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "money-credit",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P027",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": ""
+  },
+  {
+    "id": "labib-028",
+    "title": "Dynamic Monetary Equilibrium with a Non-Observed Economy and Shapley and Shubik’s Price Mechanism",
+    "year": 2019,
+    "venue": "Journal of Macroeconomics",
+    "type": "journal_article",
+    "doi": "10.1016/j.jmacro.2018.04.006",
+    "url": "https://doi.org/10.1016/j.jmacro.2018.04.006",
+    "authors_verified": [
+      "Labib Shami"
+    ],
+    "complete_author_list_verified": true,
+    "topic": "money-credit",
+    "status": "published_or_indexed",
+    "source_ids": [
+      "P028",
+      "ID_RG"
+    ],
+    "pdf_included": false,
+    "permission_to_mirror": "unverified",
+    "notes": "Record uses final volume/issue year if known; online first may differ."
+  }
+]

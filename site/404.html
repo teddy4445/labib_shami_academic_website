@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found — Labib Shami</title>
+<meta name="robots" content="noindex">
+<meta name="description" content="The requested page was not found on the Labib Shami website.">
+<style>
+  :root { color-scheme: light dark; --paper:#F7F5F0; --ink:#15202B; --ink-2:#465260; --navy:#1D3A5C; --rule:#D6CFC2; }
+  @media (prefers-color-scheme: dark) { :root { --paper:#0F161D; --ink:#E9E5DC; --ink-2:#AEB7C1; --navy:#9CC2EA; --rule:#2A3642; } }
+  body { margin:0; min-height:100vh; display:grid; place-items:center; background:var(--paper); color:var(--ink); font:1.1rem/1.6 "Iowan Old Style", Palatino, Georgia, serif; padding:1.5rem; }
+  main { max-width:34rem; }
+  h1 { font-weight:400; font-size:clamp(2rem, 1.4rem + 3vw, 3.2rem); line-height:1.1; margin:0 0 .5rem; }
+  p { color:var(--ink-2); font-family:system-ui, "Segoe UI", sans-serif; }
+  a { color:var(--navy); font-family:system-ui, "Segoe UI", sans-serif; font-weight:600; }
+  ul { padding:0; list-style:none; display:flex; flex-wrap:wrap; gap:.5rem 1.25rem; border-top:1px solid var(--rule); padding-top:1rem; }
+  :focus-visible { outline:3px solid #0E6B66; outline-offset:3px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>This page could not be found.</h1>
+  <p>The address may have changed. These pages are a good place to continue:</p>
+  <ul id="links">
+    <li><a href="index.html" data-path="">Home</a></li>
+    <li><a href="research.html" data-path="research.html">Research &amp; publications</a></li>
+    <li><a href="policy.html" data-path="policy.html">Policy analysis</a></li>
+    <li><a href="about.html" data-path="about.html">About &amp; contact</a></li>
+  </ul>
+</main>
+<script>
+  // GitHub Pages serves this page for any missing path, at any depth. Point the links at the
+  // site root: the first path segment on *.github.io project sites, otherwise the domain root.
+  (function () {
+    var seg = location.pathname.split('/').filter(Boolean);
+    var base = /\.github\.io$/.test(location.hostname) && seg.length ? '/' + seg[0] + '/' : '/';
+    var links = document.querySelectorAll('#links a');
+    for (var i = 0; i < links.length; i++) links[i].href = base + links[i].getAttribute('data-path');
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+  {
+    "asset": "Taub Center portrait",
+    "source_page": "https://www.taubcenter.org.il/en/team/labib-shami/",
+    "image_url": "https://www.taubcenter.org.il/wp-content/uploads/2020/04/%D7%A9%D7%9C%D7%99.jpg",
+    "purpose": "hero or about portrait",
+    "license": "unknown",
+    "status": "permission_required",
+    "recommended_action": "Request licensed original from Labib or Taub; do not hotlink or copy until authorized"
+  },
+  {
+    "asset": "ResearchGate avatar",
+    "source_page": "https://www.researchgate.net/profile/Labib-Shami",
+    "image_url": "https://i1.rgstatic.net/ii/profile.image/11431281693924601-1761419330976_Q128/Labib-Shami.jpg",
+    "purpose": "identity reference only",
+    "license": "unknown",
+    "status": "not_suitable_as_published_asset",
+    "recommended_action": "Low-resolution reference; obtain original photograph with permission"
+  },
+  {
+    "asset": "Original custom portrait",
+    "source_page": "",
+    "image_url": "",
+    "purpose": "preferred hero photograph",
+    "license": "to-be-supplied",
+    "status": "needs_user_asset",
+    "recommended_action": "Obtain Labib-approved high-resolution portrait and usage permission"
+  },
+  {
+    "asset": "Charts and research figures",
+    "source_page": "https://www.taubcenter.org.il/en/team/labib-shami/",
+    "image_url": "",
+    "purpose": "policy cards and highlights",
+    "license": "rights vary",
+    "status": "permissions_or_redesign_required",
+    "recommended_action": "Redraw chart from licensed/open data with attribution or request author permission; do not scrape figures"
+  }
+]

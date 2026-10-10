@@ -1,0 +1,220 @@
+{
+  "updated": "2026-10-10",
+  "themes": {
+    "living": "Cost of living, housing & household finance",
+    "macro": "Macroeconomic reviews",
+    "hidden": "The non-observed economy",
+    "society": "Society, cities & early childhood"
+  },
+  "reports": [
+    {
+      "id": "taub-001",
+      "date": "2026-09-16",
+      "year": 2026,
+      "theme": "living",
+      "title": "The Consumer Price Index, Housing Costs, Consumer Credit, and the Cost of Living",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/housing-and-cpi-2026/",
+      "url_he": "https://www.taubcenter.org.il/research/housing-and-cpi-2026/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2026/08/CPI-and-housing-2026-ENG.pdf",
+      "summary": "Argues that Israel's consumer price index understates the cost pressure on households because it leaves out mortgage and consumer-credit interest, constructs an alternative finance-based housing measure, and recommends publishing supplementary indices alongside the official one."
+    },
+    {
+      "id": "taub-002",
+      "date": "2026-05-11",
+      "year": 2026,
+      "theme": "living",
+      "title": "Owning or Renting? The Dynamics of Housing Tenure in Israel",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/housing-tenure/",
+      "url_he": "https://www.taubcenter.org.il/research/housing-tenure/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2026/05/Housing-tenure-2026-ENG.pdf",
+      "summary": "Follows the same Israeli households from 2013 to 2022 to trace movements between owning, renting and living in family-owned homes, with particular attention to rising homeownership in Arab society and to international comparisons."
+    },
+    {
+      "id": "taub-003",
+      "date": "2025-12-29",
+      "year": 2025,
+      "theme": "macro",
+      "title": "Is the Israeli Economy Recovering?",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "State of the Nation Report 2025",
+      "url": "https://www.taubcenter.org.il/en/research/snr-2025-macro/",
+      "url_he": "https://www.taubcenter.org.il/research/snr-2025-macro/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2025/12/Macro-2025-ENG-4.pdf",
+      "summary": "Assesses Israel's wartime economy, from defence-driven deficits and debt to their effects on investment, consumption and growth, together with the long-standing problems of low productivity and high prices."
+    },
+    {
+      "id": "taub-004",
+      "date": "2024-12-31",
+      "year": 2024,
+      "theme": "macro",
+      "title": "Israel’s Economy 2024: A Nation at War",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "State of the Nation Report 2024",
+      "url": "https://www.taubcenter.org.il/en/research/israels-economy-2024/",
+      "url_he": "https://www.taubcenter.org.il/research/israels-economy-2024/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2024/12/Macro-2024-ENG-5.pdf",
+      "summary": "Reviews how the war affected GDP, public spending and revenue, deficit and debt projections and the high-tech sector in 2024, set against longer-run structural trends."
+    },
+    {
+      "id": "taub-005",
+      "date": "2023-12-31",
+      "year": 2023,
+      "theme": "macro",
+      "title": "The Israeli Economy on the Eve of the October War: A Macro-Economic Review",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "State of the Nation Report 2023",
+      "url": "https://www.taubcenter.org.il/en/research/economy-eve-of-war/",
+      "url_he": "https://www.taubcenter.org.il/research/economy-eve-of-war/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2024/01/Macro-ENG-2023-2.pdf",
+      "summary": "Surveys Israel's macroeconomic position just before 7 October 2023: growth relative to the OECD, public finances, productivity gaps, high-tech investment, inflation and the cost of living."
+    },
+    {
+      "id": "taub-006",
+      "date": "2023-11-29",
+      "year": 2023,
+      "theme": "living",
+      "title": "Interest, Inflation, and Mortgages in Israel",
+      "authors": [
+        "Labib Shami",
+        "Ori Oberman",
+        "Benjamin Bental"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/interest-inflation-and-mortgages/",
+      "url_he": "https://www.taubcenter.org.il/research/interest-inflation-and-mortgages/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2023/11/Mortgages-2023-ENG.pdf",
+      "summary": "Simulates how Bank of Israel rate increases, compared with inflation left unchecked, would change households' monthly mortgage payments, and concludes that unchecked inflation would hurt borrowers more than the rate increases."
+    },
+    {
+      "id": "taub-007",
+      "date": "2023-05-23",
+      "year": 2023,
+      "theme": "society",
+      "title": "Migration Patterns in Mixed Cities in Israel: Socioeconomic Perspectives",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/migration-patterns-in-mixed-cities-in-israel/",
+      "url_he": "https://www.taubcenter.org.il/research/migration-patterns-in-mixed-cities/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2023/05/Migration-Patterns-ENG-2023-1.pdf",
+      "summary": "Analyses moves into, out of and within eight mixed Jewish–Arab cities between 2017 and 2020 by socioeconomic cluster, and what these patterns mean for the cities' social fabric."
+    },
+    {
+      "id": "taub-008",
+      "date": "2022-12-29",
+      "year": 2022,
+      "theme": "macro",
+      "title": "Macroeconomic Trends in Israel: An Overview",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "State of the Nation Report 2022",
+      "url": "https://www.taubcenter.org.il/en/research/macroeconomic-trends-in-israel-2022/",
+      "url_he": "https://www.taubcenter.org.il/research/macroeconomic-trends-in-israel-2022/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2022/12/Macro-Overview-ENG-2022.pdf",
+      "summary": "Describes the 2022 economy's return to pre-COVID trends, covering public debt, a tight labour market, low productivity and capital per worker, the high-tech sector and price developments."
+    },
+    {
+      "id": "taub-009",
+      "date": "2021-12-26",
+      "year": 2021,
+      "theme": "macro",
+      "title": "Macroeconomic Trends: An Overview",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "State of the Nation Report 2021",
+      "url": "https://www.taubcenter.org.il/en/research/macroeconomic-trends-an-overview-2021/",
+      "url_he": "https://www.taubcenter.org.il/research/macroeconomic-trends-an-overview-2021/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2021/12/Macro-Overview-ENG-2021.pdf",
+      "summary": "Examines the rebound from COVID-19 through GDP, consumption and saving, trade, deficits, the take-up of relief funds, debt sustainability and employment."
+    },
+    {
+      "id": "taub-010",
+      "date": "2021-11-23",
+      "year": 2021,
+      "theme": "society",
+      "title": "Enrollment of Arab Children in Supervised Daycare",
+      "authors": [
+        "Shavit Ben-Porat",
+        "John Gal",
+        "Labib Shami"
+      ],
+      "authors_etal": true,
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/attendance-of-supervised-preschool-frameworks-by-arab-israeli-children/",
+      "url_he": "https://www.taubcenter.org.il/research/attendance-of-supervised-preschool-frameworks-by-arab-israeli-children/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2021/11/EnrollmentinSupervisedDaycareEng-1.pdf",
+      "summary": "Investigates why few Arab children under three attend supervised early-childhood frameworks, drawing on ministry data, a survey and interviews to identify barriers of supply, access and cost, and to set out policy options."
+    },
+    {
+      "id": "taub-011",
+      "date": "2020-12-23",
+      "year": 2020,
+      "theme": "macro",
+      "title": "The Impact of the Coronavirus on the Economy of Israel: An Overview",
+      "authors": [
+        "Benjamin Bental",
+        "Labib Shami"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/impact-coronavirus-economy-israel-eng/",
+      "url_he": "https://www.taubcenter.org.il/research/the-impact-of-the-coronavirus-on-the-economy-of-israel-an-overview-heb/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2021/01/impactofcoronavirusontheeconomyofisraeloverview.pdf",
+      "summary": "Reviews the pandemic's immediate impact in 2020 on growth, unemployment, the deficit and national debt, monetary policy and the take-up of government aid programmes."
+    },
+    {
+      "id": "taub-012",
+      "date": "2020-09-10",
+      "year": 2020,
+      "theme": "hidden",
+      "title": "The Non-Observed Economy in Israel",
+      "authors": [
+        "Labib Shami"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/the-non-observed-economy-in-israel/",
+      "url_he": "https://www.taubcenter.org.il/research/heb-the-non-observed-economy-in-israel/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2021/01/thenonobservedeconomyinisraeleng.pdf",
+      "summary": "Estimates the size of Israel's non-observed economy with a currency-demand model, tracing its recent decline, separating its tax-evasion and crime components, and considering the possible effects of limits on cash and of COVID-19."
+    },
+    {
+      "id": "taub-013",
+      "date": "2019-02-10",
+      "year": 2019,
+      "theme": "living",
+      "title": "Household Debt in Israel",
+      "authors": [
+        "Labib Shami"
+      ],
+      "series": "",
+      "url": "https://www.taubcenter.org.il/en/research/household-debt-in-israel/",
+      "url_he": "https://www.taubcenter.org.il/research/%d7%94%d7%97%d7%95%d7%91-%d7%a9%d7%9c-%d7%9e%d7%a9%d7%a7%d7%99-%d7%91%d7%99%d7%aa-%d7%91%d7%99%d7%a9%d7%a8%d7%90%d7%9c/",
+      "pdf": "https://www.taubcenter.org.il/wp-content/uploads/2020/12/householddebtinisrael2019eng16.pdf",
+      "summary": "Breaks down Israeli household debt by income decile, age group and population group, finding a debt-to-GDP ratio that is low by international standards but rising, with particular vulnerability among the poorest households."
+    }
+  ]
+}

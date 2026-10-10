@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+# Optional QA dependencies (developer machine only)
+tools/qa/axe.min.js
+node_modules/
