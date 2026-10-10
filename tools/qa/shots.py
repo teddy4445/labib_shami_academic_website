@@ -9,7 +9,7 @@ AXE_PATH = Path(os.environ.get("AXE_JS", ROOT / "tools/qa/axe.min.js"))
 
 BASE = sys.argv[1] if len(sys.argv) > 1 else "http://localhost:8000/"
 OUT = ROOT / "research/qa/screenshots"; OUT.mkdir(parents=True, exist_ok=True)
-pages = ["index.html", "research.html", "policy.html", "media.html", "teaching.html", "about.html",
+pages = ["index.html", "research.html", "policy.html", "media.html", "teaching.html",
          "publications/2019-dynamic-monetary-equilibrium-non-observed-economy/", "404.html"]
 widths = [320, 390, 768, 1280, 1440]
 report = []

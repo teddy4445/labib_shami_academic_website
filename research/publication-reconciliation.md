@@ -1,6 +1,6 @@
 # Publication reconciliation (10 October 2026)
 
-Source of truth for the site: `site/data/publications.json` (public). The full provenance version is `research/publications-master.json`, which adds sources, verification notes and summary basis.
+Source of truth for the site: `docs/data/publications.json` (public). The full provenance version is `research/publications-master.json`, which adds sources, verification notes and summary basis.
 
 ## Sources compared
 

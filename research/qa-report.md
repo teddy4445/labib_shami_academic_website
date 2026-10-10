@@ -6,7 +6,7 @@ Environment: local preview with `python3 -m http.server` (root on :8000, and a G
 
 | Test | Method | Result |
 |---|---|---|
-| Static structure, local links, assets, duplicate IDs, `href` safety | Kit script `audit_static_site.py site` | **Pass.** 35 pages, 0 errors. Two expected warnings: no `sitemap.xml` (domain unknown) and 404 page set to `noindex` (intended). |
+| Static structure, local links, assets, duplicate IDs, `href` safety | Kit script `audit_static_site.py docs` | **Pass.** 35 pages, 0 errors. Two expected warnings: no `sitemap.xml` (domain unknown) and 404 page set to `noindex` (intended). |
 | HTML5 + CSS validity | Nu Html Checker (vnu.jar 26.10.9) `--also-check-css` on all 35 pages | **Pass.** No errors. |
 | JSON / JSON-LD syntax | Python `json` on `data/*.json` and every `application/ld+json` block | **Pass** |
 | Data integrity | `python3 tools/site_tool.py --check` (unique slugs/DOIs, DOI format, Shami in every author list, valid types) | **Pass** |
@@ -66,3 +66,18 @@ Home, Research, a paper page, Policy, Media, Teaching and About were reviewed at
 | Scholarly detail pages and filters | 2 | |
 | Real, unambiguous actions | 2 | |
 | **Total** | **19 / 20** | Adding an approved portrait or author-cleared figures would close the remaining gap. |
+
+## Re-test after owner edits and the move to `docs/` (10 October 2026)
+
+The site owner removed the About page, the logo mark, the credentials strip, the Latest section, the guest-lecture and student-resources sections, and some captions and footer text. Follow-up changes:
+- Propagated the new header and footer to all 28 publication pages, which still linked to `about.html`.
+- Closed a `<span>` that the header edit left open on media, policy and teaching.
+- Removed a remaining footer link to `about.html` from teaching.
+- Moved the site from `site/` to `docs/` so GitHub Pages can publish it from `main` → `/docs`.
+
+Re-run results:
+- **Audit script:** 0 errors across 34 pages.
+- **Nu validator:** no errors.
+- **Playwright and axe-core:** 50/50 checks pass (keyboard, menu, filters, no-JS, GitHub Pages sub-path, axe light/dark).
+- **Layout:** all 34 pages fit at 320px with no overflow.
+- **Links:** no internal links to removed pages remain.

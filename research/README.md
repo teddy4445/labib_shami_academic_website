@@ -5,7 +5,7 @@
 | `VERIFICATION_AND_RIGHTS.md` | **Start here.** How facts were verified, what may be published, licences, unreadable sources |
 | `identity-resolution.md` | Evidence that all records belong to one person; namesakes excluded |
 | `publication-reconciliation.md` | How 28 distinct works were derived (duplicates, preprints, corrections to the pack) |
-| `publications-master.json` | Bibliography with sources, verification notes and summary basis (the public subset is `site/data/publications.json`) |
+| `publications-master.json` | Bibliography with sources, verification notes and summary basis (the public subset is `docs/data/publications.json`) |
 | `policy-media-verification.md` | Taub reports and media items: corrections, additions, exclusions |
 | `research-evidence.csv` | One row per substantial public claim: source, dates, confidence |
 | `materials-inventory.csv` | Inventory of supplied materials and how each was used |

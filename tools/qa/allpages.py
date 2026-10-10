@@ -4,7 +4,7 @@ import os
 ROOT = Path(__file__).resolve().parents[2]
 AXE_PATH = Path(os.environ.get("AXE_JS", ROOT / "tools/qa/axe.min.js"))
 
-site = ROOT / "site"; pages = sorted(str(p.relative_to(site)) for p in site.rglob('*.html'))
+site = ROOT / "docs"; pages = sorted(str(p.relative_to(site)) for p in site.rglob('*.html'))
 issues = []
 with sync_playwright() as p:
     b = p.chromium.launch(); pg = b.new_page(viewport={"width": 320, "height": 800})

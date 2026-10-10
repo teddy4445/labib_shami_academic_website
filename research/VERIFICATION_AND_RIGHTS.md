@@ -2,7 +2,7 @@
 
 **Subject:** Dr. Labib Shami (לביב שאמי · لبيب شامي), economist, ORCID [0000-0002-3127-5109](https://orcid.org/0000-0002-3127-5109)
 **Research date:** 10 October 2026 (all access dates below are this date unless stated)
-**Scope:** everything that appears on the public pages in `site/`. Detailed claim-by-claim evidence is in `research-evidence.csv`. The list of open questions is in `claims-needing-review.md`, summarised in `../NEEDS_LABIB_APPROVAL.md`.
+**Scope:** everything that appears on the public pages in `docs/`. Detailed claim-by-claim evidence is in `research-evidence.csv`. The list of open questions is in `claims-needing-review.md`, summarised in `../NEEDS_LABIB_APPROVAL.md`.
 
 This folder is private authoring material. Do **not** copy `research/` (or `labib-shami-research-pack/`, `materials/`) into the deployed website.
 
@@ -56,8 +56,8 @@ Anchors that all point to the same person: (1) ORCID 0000-0002-3127-5109 lists e
 | All page text, summaries, glosses, biographies | Written for this site from verified sources | Original wording. Paper summaries paraphrase published abstracts and are not copies. They are labelled on every paper page. |
 | Bibliographic metadata (titles, authors, venues, DOIs) | Crossref/publisher records | Facts; citation use |
 | Diagram, pillar glyphs, logo mark, favicon, book-spine graphics | Drawn for this site as inline SVG/CSS | Original |
-| Fonts: Newsreader, Source Sans 3 (`site/fonts/`) | Fontsource packages (npm registry) | SIL Open Font License 1.1. Licence files shipped in `site/fonts/`. |
-| `site/data/*.json`, `publications.bib` | Generated from verified metadata | Original compilation |
+| Fonts: Newsreader, Source Sans 3 (`docs/fonts/`) | Fontsource packages (npm registry) | SIL Open Font License 1.1. Licence files shipped in `docs/fonts/`. |
+| `docs/data/*.json`, `publications.bib` | Generated from verified metadata | Original compilation |
 
 ### 4.2 What the site deliberately does NOT contain
 
@@ -110,7 +110,7 @@ Titles are reproduced exactly as published in their original language and script
 ## 7. Re-verification checklist before launch or yearly
 
 1. Re-open the Taub EN profile (title) and the WGC faculty list (roles).
-2. Run a Crossref query for `query.author=Labib+Shami` and `filter=orcid:0000-0002-3127-5109`. Add new DOIs to `site/data/publications.json`, then run `python3 tools/site_tool.py`.
+2. Run a Crossref query for `query.author=Labib+Shami` and `filter=orcid:0000-0002-3127-5109`. Add new DOIs to `docs/data/publications.json`, then run `python3 tools/site_tool.py`.
 3. Update online-first items (`labib-003`, `labib-004`) when volume and issue are assigned.
 4. Check that the arXiv tax-evasion preprint (`labib-009`) and the SSRN working paper (`labib-005`) have not been published. If one has, change its type and status and keep the preprint as a version.
 5. Re-check that the video links still play and that the media URLs still resolve.

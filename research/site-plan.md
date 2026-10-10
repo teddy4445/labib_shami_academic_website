@@ -26,7 +26,7 @@ Primary call to action: **Explore research**. Secondary: **Read policy analysis*
 ## Information architecture (as built)
 
 ```
-site/
+docs/
 ├── index.html            Home: hero + diagram · credentials · 3 pillars · 4 selected papers · 3 policy reports · media · latest · contact
 ├── research.html         Agenda · themes (question/approach/why/key work) · 6 selected · full bibliography (static + JS filters) · profiles & data
 ├── publications/<slug>/  28 landing pages: summary, details, cite/BibTeX, related work, Highwire + ScholarlyArticle metadata

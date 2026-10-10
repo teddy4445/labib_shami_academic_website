@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Optional authoring helper for the Labib Shami website (Python 3.8+, standard library only).
 
-The website in ../site is plain static HTML and needs NO build step to be viewed or deployed.
+The website in ../docs is plain static HTML and needs NO build step to be viewed or deployed.
 This helper exists only to save typing when the curated data changes. It:
 
-  1. re-renders the regions between <!-- BIB:START --> / <!-- BIB:END --> in site/research.html,
-     <!-- POLICY:START --> / <!-- POLICY:END --> in site/policy.html and
-     <!-- MEDIA:START --> / <!-- MEDIA:END --> in site/media.html from site/data/*.json;
-  2. (re)writes one landing page per publication: site/publications/<slug>/index.html;
-  3. writes site/data/publications.bib;
-  4. optionally writes site/sitemap.xml when you pass --base https://your.domain/path/
+  1. re-renders the regions between <!-- BIB:START --> / <!-- BIB:END --> in docs/research.html,
+     <!-- POLICY:START --> / <!-- POLICY:END --> in docs/policy.html and
+     <!-- MEDIA:START --> / <!-- MEDIA:END --> in docs/media.html from docs/data/*.json;
+  2. (re)writes one landing page per publication: docs/publications/<slug>/index.html;
+  3. writes docs/data/publications.bib;
+  4. optionally writes docs/sitemap.xml when you pass --base https://your.domain/path/
 
 Everything outside the marker regions is hand-written HTML and is never touched.
 
@@ -30,7 +30,7 @@ import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE = ROOT / "site"
+SITE = ROOT / "docs"
 DATA = SITE / "data"
 ME = "Labib Shami"
 
@@ -582,7 +582,7 @@ def main() -> int:
 
     if a.base:
         base = a.base if a.base.endswith("/") else a.base + "/"
-        urls = ["", "research.html", "policy.html", "media.html", "teaching.html", "about.html"] + [p["page_url"] for p in pubs]
+        urls = ["", "research.html", "policy.html", "media.html", "teaching.html"] + [p["page_url"] for p in pubs]
         today = _dt.date.today().isoformat()
         xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
         xml += [f"  <url><loc>{e(base + u)}</loc><lastmod>{today}</lastmod></url>" for u in urls]

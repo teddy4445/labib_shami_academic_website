@@ -1,6 +1,6 @@
 # Policy reports and media: verification notes (10 October 2026)
 
-Raw notes from the verification pass are in `raw/agentB_policy_media.json` and `raw/agentB_notes.md`. Public data: `site/data/policy.json`, `site/data/media.json`.
+Raw notes from the verification pass are in `raw/agentB_policy_media.json` and `raw/agentB_notes.md`. Public data: `docs/data/policy.json`, `docs/data/media.json`.
 
 ## Taub Center reports (13, all confirmed as authored or co-authored by Labib Shami)
 

@@ -4,7 +4,7 @@ The site is complete and deployable. These are the items only Dr. Shami can sett
 
 ## Before public launch
 
-1. **Wording in his name.** The hero line ("Studying the economy that official statistics record, *and the part they miss*"), the three research questions and both biographies on the About page are editorial drafts in the third person. Approve them, edit them, or send first-person text.
+1. **Wording in his name.** The hero line ("Studying the economy that official statistics record, *and the part they miss*") and the three research questions are editorial drafts. Approve them, edit them, or send first-person text. The About page has been removed for now. Its draft biographies are in the git history if he wants them back.
 2. **Title at Western Galilee College.** The site says "faculty member, Department of Economics" and lists the lecturer roles from the College's own page. Should a rank be shown? A 2025 conference bio says "Senior Lecturer".
 3. **University of Haifa.** Its portal lists him as a *former* Teaching Associate (2019–2026), so the site uses the past tense. Is that correct?
 4. **Public email.** Every page shows labibs@taubcenter.org.il for collaboration, media and speaking requests. Keep it, or give a different address?
@@ -20,4 +20,4 @@ The site is complete and deployable. These are the items only Dr. Shami can sett
 11. **Daycare report (2021).** Which author list is correct: "Avner Elizur" (English page) or "Alon Sela" (Hebrew page)?
 12. **GLO fellowship.** Should this be listed? It could not be confirmed on glabor.org.
 13. **Extras.** Should the site include a downloadable current CV, links to LinkedIn or Google Scholar, course pages, or Hebrew and Arabic versions?
-14. **Domain.** Decide the web address. Canonical URLs, the sitemap and social preview images can then be added (`python3 tools/site_tool.py --base https://…/`).
+14. **Domain.** Decide the web address. Canonical URLs, the sitemap and social preview images can then be added (`python3 tools/site_tool.py --base https://…/`). GitHub Pages works without this..

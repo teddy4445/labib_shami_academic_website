@@ -1,6 +1,6 @@
 """Functional, keyboard, no-JS, subpath and axe-core accessibility checks (dev-only)."""
-# Usage: python3 -m http.server 8000 --directory site  (and, for the subpath test, serve a folder containing a
-# symlink named labib_shami_academic_website -> site on port 8001). Requires: pip install playwright.
+# Usage: python3 -m http.server 8000 --directory docs  (and, for the subpath test, serve a folder containing a
+# symlink named labib_shami_academic_website -> docs on port 8001). Requires: pip install playwright.
 # Optional: put axe-core's axe.min.js at tools/qa/axe.min.js (or set AXE_JS) to run the accessibility rules.
 import json, sys
 from pathlib import Path
@@ -13,7 +13,7 @@ AXE_PATH = Path(os.environ.get("AXE_JS", ROOT / "tools/qa/axe.min.js"))
 B = "http://localhost:8000/"
 SUB = "http://localhost:8001/labib_shami_academic_website/"
 AXE = (AXE_PATH.read_text() if AXE_PATH.exists() else "")
-PAGES = ["index.html", "research.html", "policy.html", "media.html", "teaching.html", "about.html", "404.html",
+PAGES = ["index.html", "research.html", "policy.html", "media.html", "teaching.html", "404.html",
          "publications/2019-dynamic-monetary-equilibrium-non-observed-economy/",
          "publications/2026-un-financing-cooperative-game/"]
 results = []
