@@ -419,7 +419,7 @@ def paper_page(p: dict, pubs: list[dict], themes: dict, policy: dict, header: st
         f'<a class="chip" href="../../research.html?topic={e(t)}#publications">{e(themes[t])}</a>' for t in p["themes"])
     apa = citation_apa(p)
     bib = bibtex(p)
-    head_title = f"{p['title']} — Labib Shami"
+    head_title = f"{p['title']} — Dr. Labib Shami"
     header_n = nested(header).replace(' aria-current="page"', "")
     header_n = header_n.replace('href="../../research.html"', 'href="../../research.html" aria-current="page"', 1)
     footer_n = nested(footer)
@@ -435,7 +435,7 @@ def paper_page(p: dict, pubs: list[dict], themes: dict, policy: dict, header: st
 <meta property="og:type" content="article">
 <meta property="og:title" content="{e(p['title'])}">
 <meta property="og:description" content="{e(desc)}">
-<meta property="og:site_name" content="Labib Shami">
+<meta property="og:site_name" content="Dr. Labib Shami">
 {chr(10).join(meta)}
 <link rel="icon" href="../../img/favicon.svg" type="image/svg+xml">
 <link rel="preload" href="../../fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
