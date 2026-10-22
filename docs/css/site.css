@@ -532,3 +532,25 @@ details summary { cursor: pointer; font-weight: 620; color: var(--navy); }
   body { background: #fff; color: #000; }
   a { color: #000; }
 }
+
+
+/* ---------- About page portrait ---------- */
+.bio-portrait {
+  margin: 0;
+  width: min(100%, 23rem);
+  justify-self: end;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.bio-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 900px) {
+  .bio-portrait {
+    justify-self: center;
+  }
+}
