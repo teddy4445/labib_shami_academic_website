@@ -15,7 +15,7 @@ Everything outside the marker regions is hand-written HTML and is never touched.
 
 Usage:
     python3 tools/site_tool.py            # update data-driven regions and paper pages
-    python3 tools/site_tool.py --check    # validate data only, write nothing
+    python3 tools/site_tool.py --check    # validate data and shared footer consistency, write nothing
     python3 tools/site_tool.py --base https://example.org/   # also write sitemap.xml + robots Sitemap line
 """
 from __future__ import annotations
@@ -24,10 +24,12 @@ import argparse
 import datetime as _dt
 import html
 import json
+import posixpath
 import re
 import sys
 import unicodedata
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "docs"
@@ -510,6 +512,69 @@ def paper_page(p: dict, pubs: list[dict], themes: dict, policy: dict, header: st
 
 
 # ---------------------------------------------------------------- checks
+def check_site_footers() -> list[str]:
+    """Ensure shared footer identity, affiliations, Explore links, and profile links stay aligned."""
+    issues = []
+    pages = sorted(p for p in SITE.rglob("*.html") if p.name.lower() != "404.html")
+    footer_re = re.compile(r"<footer\b[^>]*>.*?</footer\s*>", re.I | re.S)
+    fingerprints = {}
+
+    for page in pages:
+        relative = page.relative_to(SITE).as_posix()
+        source = page.read_text(encoding="utf-8")
+        footers = footer_re.findall(source)
+        if len(footers) != 1:
+            issues.append(f"{relative}: expected one footer, found {len(footers)}")
+            continue
+
+        footer = footers[0]
+
+        def canonical_url(value):
+            value = html.unescape(value)
+            parsed = urlsplit(value)
+            if parsed.scheme or value.startswith("//") or not parsed.path:
+                return value
+            if parsed.path.startswith("/"):
+                target = posixpath.normpath(parsed.path)
+            else:
+                target = posixpath.normpath(posixpath.join(posixpath.dirname(relative), parsed.path))
+                target = "/" + target.lstrip("./")
+            return target + (f"?{parsed.query}" if parsed.query else "") + (f"#{parsed.fragment}" if parsed.fragment else "")
+
+        def text_in(pattern):
+            match = re.search(pattern, footer, flags=re.I | re.S)
+            return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", match.group(1))).strip() if match else None
+
+        def links_in(markup):
+            return tuple(
+                (canonical_url(url), re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", label)).strip())
+                for url, label in re.findall(r"<a\b[^>]*\bhref=[\"']([^\"']+)[\"'][^>]*>(.*?)</a\s*>", markup, flags=re.I | re.S)
+            )
+
+        explore = re.search(r"<nav\b[^>]*aria-label=[\"']Footer[\"'][^>]*>(.*?)</nav\s*>", footer, flags=re.I | re.S)
+        profiles = re.search(r"<h2>\s*Profiles\s*</h2>\s*<ul\b[^>]*>(.*?)</ul\s*>", footer, flags=re.I | re.S)
+        mail = re.search(r"<a\b[^>]*href=[\"'](mailto:[^\"']+)[\"']", footer, flags=re.I)
+        signature = (
+            text_in(r"<p\b[^>]*class=[\"'][^\"']*footer-name[^\"']*[\"'][^>]*>(.*?)</p\s*>"),
+            text_in(r"<p\b[^>]*class=[\"'][^\"']*muted[^\"']*[\"'][^>]*>(.*?)</p\s*>"),
+            canonical_url(mail.group(1)) if mail else None,
+            links_in(explore.group(1)) if explore else None,
+            links_in(profiles.group(1)) if profiles else None,
+        )
+        if any(value is None for value in signature):
+            issues.append(f"{relative}: footer is missing a name, affiliation, contact, Explore navigation, or Profiles list")
+        fingerprints[relative] = signature
+
+    if fingerprints:
+        reference = next(iter(fingerprints))
+        expected = fingerprints[reference]
+        for relative, fingerprint in fingerprints.items():
+            if fingerprint != expected:
+                differences = [label for label, left, right in zip(("name", "affiliation order", "email", "Explore links", "Profiles links"), expected, fingerprint) if left != right]
+                issues.append(f"{relative}: footer {', '.join(differences)} differ from {reference}")
+    return issues
+
+
 def check(pubs, policy, media) -> list[str]:
     issues = []
     seen = set()
@@ -551,17 +616,18 @@ def replace_region(path: Path, name: str, content: str) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--check", action="store_true", help="validate data only")
+    ap.add_argument("--check", action="store_true", help="validate source data and shared footer consistency without writing files")
     ap.add_argument("--base", help="absolute production URL, e.g. https://example.org/ (writes sitemap.xml)")
     a = ap.parse_args()
 
     pdata, policy, media = load("publications.json"), load("policy.json"), load("media.json")
     pubs, themes = pdata["publications"], pdata["themes"]
     issues = check(pubs, policy, media)
+    issues.extend(check_site_footers())
     if issues:
-        print("Data problems:\n  " + "\n  ".join(issues))
+        print("Site consistency problems:\n  " + "\n  ".join(issues))
         return 1
-    print(f"OK: {len(pubs)} publications, {len(policy['reports'])} reports, {len(media['items'])} media items")
+    print(f"OK: {len(pubs)} publications, {len(policy['reports'])} reports, {len(media['items'])} media items; shared footer consistent across all content pages")
     if a.check:
         return 0
 
