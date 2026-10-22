@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://labibshami.com/sitemap.xml
