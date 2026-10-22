@@ -83,7 +83,7 @@ There are two equivalent ways to update the site. Both result in plain static fi
    - `docs/data/publications.bib`.
 3. Preview, then deploy.
 
-`python3 tools/site_tool.py --check` validates the data without writing anything.
+`python3 tools/site_tool.py --check` validates the source data and checks that the name, ordered affiliations, contact address, Explore navigation and Profiles links match across all content pages. It writes nothing.
 
 ### Adding a publication: checklist
 
@@ -99,7 +99,7 @@ Home-page highlights (selected papers, latest items) are hand-written in `docs/i
 ## Quality checks
 
 ```bash
-python3 tools/site_tool.py --check
+python3 tools/site_tool.py --check       # data integrity + shared footer consistency
 python3 tools/qa/audit_static_site.py docs
 # optional browser tests (developer machine only): pip install playwright, then serve the site and run
 python3 tools/qa/allpages.py        # every page at 320px: overflow, errors, one <h1>
