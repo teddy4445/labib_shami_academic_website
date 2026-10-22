@@ -648,7 +648,7 @@ def main() -> int:
 
     if a.base:
         base = a.base if a.base.endswith("/") else a.base + "/"
-        urls = ["", "research.html", "policy.html", "media.html", "teaching.html"] + [p["page_url"] for p in pubs]
+        p["page_url"] for p in pubs]
         today = _dt.date.today().isoformat()
         xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
         xml += [f"  <url><loc>{e(base + u)}</loc><lastmod>{today}</lastmod></url>" for u in urls]
