@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Economic flows and the non-observed economy</title>
+  <desc id="desc">A diagram showing economic flows among the central bank, government, households and firms, the observed economy, and the non-observed economy.</desc>
+  <defs>
+    <marker id="arrow-teal" markerWidth="14" markerHeight="14" refX="13" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M1,1 L13,7 L1,13 Z" fill="#087f79"/></marker>
+    <marker id="arrow-teal-start" markerWidth="14" markerHeight="14" refX="1" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M13,1 L1,7 L13,13 Z" fill="#087f79"/></marker>
+    <marker id="arrow-amber" markerWidth="14" markerHeight="14" refX="13" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M1,1 L13,7 L1,13 Z" fill="#b56a17"/></marker>
+    <marker id="arrow-amber-start" markerWidth="14" markerHeight="14" refX="1" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M13,1 L1,7 L13,13 Z" fill="#b56a17"/></marker>
+    <style>
+      text { font-family: Inter, "Segoe UI", Arial, sans-serif; }
+      .heading { font-size: 29px; font-weight: 700; fill: #172633; }
+      .sub { font-size: 20px; font-weight: 400; fill: #516171; }
+      .label { font-size: 17px; font-weight: 700; letter-spacing: 1px; }
+    </style>
+  </defs>
+  <rect width="1400" height="1000" fill="#f7f8f6"/>
+  <path d="M365 245 C365 300 445 337 540 390" fill="none" stroke="#087f79" stroke-width="3" marker-end="url(#arrow-teal)"/>
+  <path d="M860 390 C950 330 1035 300 1035 245" fill="none" stroke="#087f79" stroke-width="3" marker-end="url(#arrow-teal)"/>
+  <path d="M440 720 C440 660 500 620 590 565" fill="none" stroke="#087f79" stroke-width="3" marker-start="url(#arrow-teal-start)" marker-end="url(#arrow-teal)"/>
+  <path d="M960 720 C960 660 900 620 810 565" fill="none" stroke="#b56a17" stroke-width="3" stroke-dasharray="9 8" marker-start="url(#arrow-amber-start)" marker-end="url(#arrow-amber)"/>
+  <path d="M592 807 L808 807" fill="none" stroke="#b56a17" stroke-width="3" stroke-dasharray="8 7" marker-start="url(#arrow-amber-start)" marker-end="url(#arrow-amber)"/>
+  <text x="300" y="326" text-anchor="middle" class="label" fill="#087f79">MONEY</text>
+  <text x="1080" y="326" text-anchor="middle" class="label" fill="#087f79">TAXES</text>
+  <text x="376" y="639" text-anchor="middle" class="label" fill="#087f79">RECORDED</text>
+  <text x="1041" y="639" text-anchor="middle" class="label" fill="#a65b0c">UNRECORDED</text>
+  <text x="700" y="780" text-anchor="middle" class="label" fill="#a65b0c">CASH</text>
+  <rect x="140" y="80" width="440" height="155" rx="24" fill="#eaf1f0" stroke="#243646" stroke-width="2.5"/>
+  <text x="360" y="143" text-anchor="middle" class="heading">Central bank</text>
+  <text x="360" y="185" text-anchor="middle" class="sub">money · interest rates</text>
+  <rect x="820" y="80" width="440" height="155" rx="24" fill="#eaf1f0" stroke="#243646" stroke-width="2.5"/>
+  <text x="1040" y="143" text-anchor="middle" class="heading">Government</text>
+  <text x="1040" y="185" text-anchor="middle" class="sub">taxes · public goods</text>
+  <rect x="480" y="400" width="440" height="155" rx="24" fill="#ffffff" stroke="#243646" stroke-width="3"/>
+  <text x="700" y="463" text-anchor="middle" class="heading">Households &amp; firms</text>
+  <text x="700" y="505" text-anchor="middle" class="sub">spending, saving, borrowing, work</text>
+  <rect x="140" y="730" width="440" height="155" rx="24" fill="#f0ebf7" stroke="#243646" stroke-width="2.5"/>
+  <text x="360" y="793" text-anchor="middle" class="heading">Observed economy</text>
+  <text x="360" y="835" text-anchor="middle" class="sub">recorded in official statistics</text>
+  <rect x="820" y="730" width="440" height="155" rx="24" fill="#fff8ed" stroke="#a65b0c" stroke-width="2.5" stroke-dasharray="11 9"/>
+  <text x="1040" y="793" text-anchor="middle" class="heading">Non-observed economy</text>
+  <text x="1040" y="835" text-anchor="middle" class="sub">outside official statistics</text>
+</svg>
