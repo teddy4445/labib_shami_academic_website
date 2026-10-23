@@ -255,10 +255,11 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: var(--space-7) 0; }
 .hero__lede { font-size: var(--step-0); color: var(--ink-2); max-width: 56ch; margin-bottom: var(--space-6); }
 .hero__figure { margin: 0; }
 .hero__figure figcaption { font-size: var(--step--1); color: var(--ink-2); margin-top: var(--space-3); max-width: 46ch; }
-.hero__figure .diagram { display: block; width: 100%; height: auto; }
+.hero__figure .diagram { display: block; width: 108%; max-width: none; height: auto; margin-inline: -4%; }
 @media (max-width: 900px) {
   .hero .wrap { grid-template-columns: 1fr; }
   .hero__figure { max-width: 560px; }
+  .hero__figure .diagram { width: 100%; max-width: 100%; margin-inline: 0; }
 }
 
 /* Diagram (conceptual, inline SVG) */
